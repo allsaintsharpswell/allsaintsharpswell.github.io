@@ -1,4 +1,4 @@
-# All Saints by the Sea, Bailey Islane Maine
+# All Saints by the Sea, Bailey Island, Harpswell Maine
 
 http://www.allsaintsharpswell.org
 
