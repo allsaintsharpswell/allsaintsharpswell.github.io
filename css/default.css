@@ -1,6 +1,12 @@
 .container {
 	margin-top: 20px;
-	width: 533px;
+	width: auto;
+}
+
+@media (min-width: 534px) {
+	.container {
+		max-width: 800px;
+	}
 }
 
 .carousel {
